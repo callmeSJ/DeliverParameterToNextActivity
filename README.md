@@ -1,0 +1,2 @@
+# DeliverParameterToNextActivity
+传递参数到下一个画面
